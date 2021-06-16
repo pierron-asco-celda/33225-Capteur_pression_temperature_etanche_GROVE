@@ -44,6 +44,7 @@ Ressource utilisation : [LPS33HW](https://github.com/pierron-asco-celda/33225-Ca
 */
 
 #include "Lps35hw.h"
+#include <Wire.h>
 
 Lps35hw capteur =  Lps35hw(0x5C);
 
