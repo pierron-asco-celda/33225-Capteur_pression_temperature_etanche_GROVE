@@ -1,9 +1,9 @@
-# 33225-Capteur pression temperature etanche GROVE
+# 33225-Capteur pression température étanche GROVE
 
-Capteur pression temperature etanche GROVE [33225](https://www.pierron.fr/capteur-de-presion-temperature-etanche-grove.html)
+Capteur pression température étanche GROVE [33225](https://www.pierron.fr/capteur-de-presion-temperature-etanche-grove.html)
 
-<div style="text-align: justify">Ce module, compatible Grove, permet de mesurer simultanéménet la température et la pression dans un liquide.
-Ce module se raccorde sur une entrée analogique du Base Shield via un câble 4 conducteur.</div>
+<div style="text-align: justify">Ce module, compatible Grove, permet de mesurer simultanément la température et la pression dans un liquide.
+Ce module se raccorde sur une entrée analogique de la Base Shield via un câble 4 conducteur.</div>
 
 Caractéristiques techniques :
 - Alimentation : 3.3 à 5 V
@@ -22,7 +22,7 @@ Ou
 <div style="text-align: justify">Pour utiliser la librairie dans votre propre projet, importez-la avec  Sketch > Import Library.</div>
 
 # Usage :
-Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+Pour l’utilisation de ce module, référez-vous aux indications présentes sur le circuit imprimé GROVE.
 
 # Schémas :
 
