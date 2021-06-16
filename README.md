@@ -31,7 +31,7 @@ Pour l’utilisation de ce module, référez-vous aux indications présentes sur
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [LPS33HW](https://github.com/pierron-asco-celda/33129-Telemetre_ultrasons_GROVE/blob/main/src/Datasheet_NU40C16T-R-1.pdf)
+Ressource utilisation : [LPS33HW](https://github.com/pierron-asco-celda/33225-Capteur_pression_temperature_etanche_GROVE/blob/main/src/Datasheet_lps33hw.pdf)
 
 # Exemples :
 ### Arduino / C++
