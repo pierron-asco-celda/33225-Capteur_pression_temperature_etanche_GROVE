@@ -29,6 +29,10 @@ Pour l’utilisation de ce module, référez-vous aux indications présentes sur
 ![SCH-33225](/img/SCH-33225.jpg)
 ![BRD-33225](/img/BRD-33225.jpg)
 
+# RESSOURCES À TÉLÉCHARGER :
+
+Ressource utilisation : [LPS33HW](https://github.com/pierron-asco-celda/33129-Telemetre_ultrasons_GROVE/blob/main/src/Datasheet_NU40C16T-R-1.pdf)
+
 # Exemples :
 ### Arduino / C++
 ```cpp
